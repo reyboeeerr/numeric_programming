@@ -15,7 +15,7 @@ _root finding_
 7. [birge-vietta method](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea3_birge-vieta.py)
 8. [false position method](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea3_falsa_posicion.py)
 
-![carro](https://th.bing.com/th/id/R.bf04e7c904af25632b1932d4315b23a3?rik=QgsUrgF9EVyZWg&riu=http%3a%2f%2fcomplotmagazine.com%2fwp-content%2fuploads%2f2017%2f07%2fcarros-clasicos-ferrari-250-gto.jpg&ehk=tYWqKBs4HX57xGGqnXUOh6M9iEa6fs3hQrKGzEuTC0o%3d&risl=&pid=ImgRaw&r=0)
+![root](https://img.freepik.com/vector-gratis/gran-arbol-verde-raices-subterraneas-blanco_1308-41305.jpg?semt=ais_hybrid&w=740)
 
 _lineal ecuations solutions_
 9. [lineal ecuations methods(LU)](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea4_ecuaciones_lineales_LU.py)
@@ -26,3 +26,15 @@ _lineal ecuations solutions_
 14. [lineal ecuations methods(jacobi)](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea4_ecuaciones_lineales_jacobi.py)
 
 ![fuego](https://th.bing.com/th/id/OIP.Q1y623Xq8IrcyEfEo0oXCgHaHa?w=195&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7)
+
+_interpolation_
+
+15.[linear interpolation](https://github.com/reyboeeerr/numeric_programming/blob/main/interpolacion_lineal.py)
+16.[cuadratic interpolation](https://github.com/reyboeeerr/numeric_programming/blob/main/interpolacion_cuadratica.py)
+17.[Newton interpolation](https://github.com/reyboeeerr/numeric_programming/blob/main/interpolacion_newton.py)
+
+_linear regression_
+
+18.[linear regression](https://github.com/reyboeeerr/numeric_programming/blob/main/regresion_lineal.py)
+
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmuaxMwCvvDfVlYS8GZ9P3F80wesB1FofBOQ&s)
