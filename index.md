@@ -15,8 +15,6 @@ _root finding_
 7. [birge-vietta method](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea3_birge-vieta.py)
 8. [false position method](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea3_falsa_posicion.py)
 
-![root](https://img.freepik.com/vector-gratis/gran-arbol-verde-raices-subterraneas-blanco_1308-41305.jpg?semt=ais_hybrid&w=740)
-
 _lineal ecuations solutions_
 9. [lineal ecuations methods(LU)](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea4_ecuaciones_lineales_LU.py)
 10. [lineal ecuations methods(cramer)](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea4_ecuaciones_lineales_cramer.py)
