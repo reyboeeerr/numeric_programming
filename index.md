@@ -22,19 +22,15 @@ _lineal ecuations solutions_
 12. [lineal ecuations methods(gauss-seidel)](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea4_ecuaciones_lineales_gauss-seidel.py)
 13. [lineal ecuations methods(inverse)](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea4_ecuaciones_lineales_inversa.py)
 14. [lineal ecuations methods(jacobi)](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea4_ecuaciones_lineales_jacobi.py)
-
 ![meme](https://i.pinimg.com/736x/3b/e4/29/3be4290da03e8b8564ae5eeb5b165a7b.jpg)
 
-![fuego](https://th.bing.com/th/id/OIP.Q1y623Xq8IrcyEfEo0oXCgHaHa?w=195&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7)
-
 _interpolation_
-
 15. [linear interpolation](https://github.com/reyboeeerr/numeric_programming/blob/main/interpolacion_lineal.py)
 16. [cuadratic interpolation](https://github.com/reyboeeerr/numeric_programming/blob/main/interpolacion_cuadratica.py)
 17. [Newton interpolation](https://github.com/reyboeeerr/numeric_programming/blob/main/interpolacion_newton.py)
+18. ![fuego](https://th.bing.com/th/id/OIP.Q1y623Xq8IrcyEfEo0oXCgHaHa?w=195&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7)
 
 _linear regression_
-
 18.[linear regression](https://github.com/reyboeeerr/numeric_programming/blob/main/regresion_lineal.py)
 
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmuaxMwCvvDfVlYS8GZ9P3F80wesB1FofBOQ&s)
