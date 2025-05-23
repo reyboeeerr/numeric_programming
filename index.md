@@ -27,9 +27,9 @@ _lineal ecuations solutions_
 
 _interpolation_
 
-15.[linear interpolation](https://github.com/reyboeeerr/numeric_programming/blob/main/interpolacion_lineal.py)
-16.[cuadratic interpolation](https://github.com/reyboeeerr/numeric_programming/blob/main/interpolacion_cuadratica.py)
-17.[Newton interpolation](https://github.com/reyboeeerr/numeric_programming/blob/main/interpolacion_newton.py)
+15. [linear interpolation](https://github.com/reyboeeerr/numeric_programming/blob/main/interpolacion_lineal.py)
+16. [cuadratic interpolation](https://github.com/reyboeeerr/numeric_programming/blob/main/interpolacion_cuadratica.py)
+17. [Newton interpolation](https://github.com/reyboeeerr/numeric_programming/blob/main/interpolacion_newton.py)
 
 _linear regression_
 
