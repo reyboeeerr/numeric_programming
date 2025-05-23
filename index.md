@@ -35,3 +35,9 @@ _linear regression_
 18. [linear regression](https://github.com/reyboeeerr/numeric_programming/blob/main/regresion_lineal.py)
 
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmuaxMwCvvDfVlYS8GZ9P3F80wesB1FofBOQ&s)
+
+_others_
+
+-  [matrix 1](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea1%201.py)
+-  [matrix 2](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea1_pt2%201.py)
+-  [matrix 3](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea1_pt3%201.py)
