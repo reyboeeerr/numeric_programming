@@ -23,6 +23,8 @@ _lineal ecuations solutions_
 13. [lineal ecuations methods(inverse)](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea4_ecuaciones_lineales_inversa.py)
 14. [lineal ecuations methods(jacobi)](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea4_ecuaciones_lineales_jacobi.py)
 
+![meme](https://i.pinimg.com/736x/3b/e4/29/3be4290da03e8b8564ae5eeb5b165a7b.jpg)
+
 ![fuego](https://th.bing.com/th/id/OIP.Q1y623Xq8IrcyEfEo0oXCgHaHa?w=195&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7)
 
 _interpolation_
