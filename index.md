@@ -30,8 +30,6 @@ _interpolation_
 16. [cuadratic interpolation](https://github.com/reyboeeerr/numeric_programming/blob/main/interpolacion_cuadratica.py)
 17. [Newton interpolation](https://github.com/reyboeeerr/numeric_programming/blob/main/interpolacion_newton.py)
 
-![fuego](https://th.bing.com/th/id/OIP.Q1y623Xq8IrcyEfEo0oXCgHaHa?w=195&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7)
- 
 _linear regression_
 18. [linear regression](https://github.com/reyboeeerr/numeric_programming/blob/main/regresion_lineal.py)
 
