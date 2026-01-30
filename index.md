@@ -6,8 +6,6 @@ _integration_
 2. [simpson 1/3 methhod](https://github.com/reyboeeerr/numeric_programming/blob/main/simpson1_3.py)
 3. [simpson 6/8 method](https://github.com/reyboeeerr/numeric_programming/blob/main/simpson6_8.py)
 
-![dinosaurio](https://www.bing.com/th/id/OIP.WMXznafj85ZqTK_lSgsdTAHaFj?w=176&h=185&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2)
-
 _root finding_
 4. [bisection method](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea2_biseccion.py)
 5. [newton-rhapson method](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea2_newton-raph.py)
@@ -24,8 +22,6 @@ _lineal ecuations solutions_
 14. [lineal ecuations methods(jacobi)](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea4_ecuaciones_lineales_jacobi.py)
 15. [lineal ecuations methods(cholesky](https://github.com/reyboeeerr/numeric_programming/blob/main/tarea4_ecuaciones_lineales_cholesky.py)
 
-![meme](https://i.pinimg.com/736x/3b/e4/29/3be4290da03e8b8564ae5eeb5b165a7b.jpg)
-
 _interpolation_
 16. [linear interpolation](https://github.com/reyboeeerr/numeric_programming/blob/main/interpolacion_lineal.py)
 17. [cuadratic interpolation](https://github.com/reyboeeerr/numeric_programming/blob/main/interpolacion_cuadratica.py)
@@ -33,8 +29,6 @@ _interpolation_
 
 _linear regression_
 19. [linear regression](https://github.com/reyboeeerr/numeric_programming/blob/main/regresion_lineal.py)
-
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmuaxMwCvvDfVlYS8GZ9P3F80wesB1FofBOQ&s)
 
 _others_
 
